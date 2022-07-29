@@ -1,6 +1,7 @@
 const americanOnly = require("./american-only.js");
 const americanToBritishSpelling = require("./american-to-british-spelling.js");
 const americanToBritishTitles = require("./american-to-british-titles.js");
+const britishToAmericanTitles = require("./british-to-american-titles.js");
 const britishOnly = require("./british-only.js");
 const Constants = require("../constans.js");
 
